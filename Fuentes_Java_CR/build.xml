@@ -1,7 +1,7 @@
 <project name="My Project" default="help" basedir=".">
     <!-- Define the properties used by the build -->
     <property name="app.name"      value="HelloWorld"/>
-    <property name="tcserver.home" value="/Users/croberto/temp2/work/lib" />
+    <property name="tcserver.home" value="${basedir}/lib" />
     <property name="work.home"    value="${basedir}/work"/>
     <property name="dist.home"     value="${basedir}/deploy"/>
     <property name="src.home"      value="${basedir}/src"/>
