@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Aplausos para CP</title>
+<title>Aplausos</title>
 </head>
 
 <body bgcolor=white>
@@ -11,7 +11,7 @@
 <img src="images/3htp.png">
 </td>
 <td>
-<h1>Aplausos para CP</h1>
+<h1>Aplausos</h1>
 </td>
 </tr>
 </table>
